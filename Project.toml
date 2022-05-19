@@ -1,0 +1,7 @@
+name = "PointLib"
+uuid = "4f19aeec-ae3f-460d-be64-0374ebe2a91e"
+authors = ["apaoluzzi <apaoluzzi@mac.com>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
