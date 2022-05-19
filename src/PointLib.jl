@@ -8,7 +8,7 @@ using LinearAlgebra
 export Point2D, iscollinear, ϵ
 
 """
- Point2D
+    Point2D
 ```  
  x: Float64 x-cordinates
  y: Float64 y-cordinates

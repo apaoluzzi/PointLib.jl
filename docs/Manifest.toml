@@ -72,7 +72,7 @@ version = "2.3.1"
 
 [[PointLib]]
 deps = ["LinearAlgebra"]
-git-tree-sha1 = "069a4b2490dd4d275d707eb02d03f2cbbba126d9"
+git-tree-sha1 = "a545c7ed6a7c5054325c4d834274ed429ea210e3"
 repo-rev = "master"
 repo-url = ".."
 uuid = "4f19aeec-ae3f-460d-be64-0374ebe2a91e"

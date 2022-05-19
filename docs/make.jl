@@ -15,5 +15,5 @@ makedocs(
         ]
     )
 deploydocs(
-    repo   = "github.com/sambitdash/PointLib.jl.git",
+    repo   = "github.com/apaoluzzi/PointLib.jl.git",
 )

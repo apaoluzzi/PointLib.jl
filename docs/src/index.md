@@ -1,5 +1,6 @@
-```@docs <methods or types>```
-
+```@docs 
+<methods or types>
+```
 # Reference
 
 This page has references to all the exported types and functions.
